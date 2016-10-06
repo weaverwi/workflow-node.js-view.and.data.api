@@ -20,8 +20,8 @@ var credentials ={
 	credentials: {
 		// Replace placeholder below by the Consumer Key and Consumer Secret you got from
 		// http://developer.autodesk.com/ for the production server
-		client_id: process.env.CONSUMERKEY || '<replace with your consumer key>',
-		client_secret: process.env.CONSUMERSECRET || '<replace with your consumer secret>',
+		client_id: process.env.CONSUMERKEY || TrOZ99JCjFl8VOtgzVM1GPiF2AwCrv1H,
+		client_secret: process.env.CONSUMERSECRET || iVsmxvie1r7gt9HJ,
 		grant_type: 'client_credentials',
 		scope: 'data:read'
 	},
