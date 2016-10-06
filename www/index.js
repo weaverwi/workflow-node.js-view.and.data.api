@@ -15,7 +15,7 @@
 // DOES NOT WARRANT THAT THE OPERATION OF THE PROGRAM WILL BE
 // UNINTERRUPTED OR ERROR FREE.
 /////////////////////////////////////////////////////////////////////////////////
-var defaultUrn = dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTEwLTA2LTIxLTM2LTA5LXRwOWRwdmhhem9scWhkcjNrYXFwMmJnYnZsajAvUm9ib3RBcm0uZHdmeA;
+var defaultUrn = dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTEwLTA2LTIyLTEyLTI4LXN0amVlbG5od2ltbWRuaHM0YWVyZG1sd2ZpMWUvUm9ib3RBcm0uZHdmeA;
 
 $(document).ready(function () {
     var tokenurl = 'http://' + window.location.host + '/api/token';
